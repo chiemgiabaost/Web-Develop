@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
+
+int main() {
+    int a = 256;
+    int b = 90;
+    
+    double result = (double)a * (double)sqrt((double)b/ (double)a);
+    int final = (int) result;
+    printf("%d",final );
+
+    return 0;
+}
