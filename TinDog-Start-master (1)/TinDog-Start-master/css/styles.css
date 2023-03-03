@@ -36,3 +36,39 @@
   margin-right: auto;
   width: 50%;
 }
+.feature{
+  font-family: "Montserrat-Bold";
+  
+  font-size: 1.5rem;
+}
+.description{
+  color: #8f8f8f;
+  padding:  0% 15%;
+}
+#icon{
+  margin-bottom: 1rem;
+
+}
+#icon:hover{
+  color:#8f8f8f;
+}
+
+/* testimonials */
+#testimonials{
+  padding: 7% 15%;
+  background-color: #ef8172;
+  text-align: center;
+  color: #fff;
+  font-family: "Montserrat-Bold";
+  font-height: 1.5;
+  font-size: 3rem;
+}
+#press{
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+.press-logo{
+  width: 15%;
+  margin: 15px 15px;
+}
